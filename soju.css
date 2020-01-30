@@ -1,0 +1,12 @@
+body{
+    background-color: #F8E0E0;
+    color: black;
+ 	text-align: center;
+}
+
+.form,.limit,.greeting,.greetingLimit{
+    display:none;
+}
+.showing,.showingLimit,change{
+    display:block;
+}
